@@ -14,6 +14,7 @@ void main (){
 	}
  
  	if(userData >= 'a' && userData <= 'z'){
-                                                                                                                                                                            printf("you entered small letter\n");
+        
+		printf("you entered small letter\n");
 	}
 }
