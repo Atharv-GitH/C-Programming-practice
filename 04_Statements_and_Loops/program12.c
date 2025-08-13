@@ -13,7 +13,8 @@ void main(){
 	}
 
 	if(y){
-                                                                                                                                                                            printf("in second block\n");         
+     	
+		printf("in second block\n");         
      }  
 
 	printf("end main\n");
